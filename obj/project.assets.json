@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ely/website-byte-store/websitebyteStore/websitebyteStore.csproj",
+      "projectUniqueName": "/home/ely/websitebyteStore/websitebyteStore.csproj",
       "projectName": "websitebyteStore",
-      "projectPath": "/home/ely/website-byte-store/websitebyteStore/websitebyteStore.csproj",
+      "projectPath": "/home/ely/websitebyteStore/websitebyteStore.csproj",
       "packagesPath": "/home/ely/.nuget/packages/",
-      "outputPath": "/home/ely/website-byte-store/websitebyteStore/obj/",
+      "outputPath": "/home/ely/websitebyteStore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ely/.nuget/NuGet/NuGet.Config"

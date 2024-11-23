@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUBy4muhe6Vzeu2/8DdB883OS4JENWF0FE0vSemADo3JBMHMf5XhIqfwz0D4VSM7j+eh+hN/eC3xuICvifcORw==",
+  "dgSpecHash": "dAKk4aq1c5HHtnxtDQ0kLe37ozsRPJUZQZtfH7PNnSz5lNNdSAUhIKLNtwBca7B7XdMH4s+HE4yGx857nGmcRw==",
   "success": true,
-  "projectFilePath": "/home/ely/website-byte-store/websitebyteStore/websitebyteStore.csproj",
+  "projectFilePath": "/home/ely/websitebyteStore/websitebyteStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

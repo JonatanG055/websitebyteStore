@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = websitebyteStore
 build_property.RootNamespace = websitebyteStore
-build_property.ProjectDir = /home/ely/website-byte-store/websitebyteStore/
+build_property.ProjectDir = /home/ely/websitebyteStore/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/ely/website-byte-store/websitebyteStore
+build_property.MSBuildProjectDirectory = /home/ely/websitebyteStore
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/Home/Index.cshtml]
+[/home/ely/websitebyteStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/Home/Privacy.cshtml]
+[/home/ely/websitebyteStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/Shared/Error.cshtml]
+[/home/ely/websitebyteStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/ely/websitebyteStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/_ViewImports.cshtml]
+[/home/ely/websitebyteStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/_ViewStart.cshtml]
+[/home/ely/websitebyteStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/ely/website-byte-store/websitebyteStore/Views/Shared/_Layout.cshtml]
+[/home/ely/websitebyteStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8slqh7x4u6
