@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "websitebyteStore/1.0.0": {
+        "runtime": {
+          "websitebyteStore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "websitebyteStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
